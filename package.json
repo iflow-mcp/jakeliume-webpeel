@@ -48,6 +48,8 @@
     "dist/cli-auth.js",
     "dist/cli-auth.d.ts",
     "dist/cache.js",
+    "dist/errors.js",
+    "dist/errors.d.ts",
     "dist/cache.d.ts"
   ],
   "scripts": {
