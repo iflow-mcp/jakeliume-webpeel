@@ -1,5 +1,5 @@
 {
-  "name": "webpeel",
+  "name": "@iflow-mcp/jakeliume-webpeel",
   "version": "0.22.0",
   "description": "The web data layer for AI agents — fetch, search, crawl, extract, screenshot, and monitor the web with 55+ domain extractors and MCP.",
   "author": "Jake Liu",
@@ -8,7 +8,7 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "webpeel": "dist/cli.js"
+    "iflow-mcp-jakeliume-webpeel": "dist/mcp/server.js"
   },
   "exports": {
     ".": {
